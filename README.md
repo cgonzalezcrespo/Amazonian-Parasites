@@ -1,2 +1,2 @@
 # Amazonian Parasites Information-Theoretic (IT) approach for model selection and inference
-R code for the analysis of Amazonian parasites in hunted vertebrates 
+This repository contains the R code of the study "Exploring gastrointestinal helminth infections in Amazonian non-human primates"
